@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Cristian👋
 
-<!--
-**CristianSoare/CristianSoare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on two client projects, one for a religious institution, he other for a local business!
+- 🌱 I’m currently learning python Beautiful Soup 4 Web Scraping Module
+- 👯 I’m looking to collaborate on more client projects! Contact me via linked in if interested!
 
-Here are some ideas to get you started:
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn - https://www.linkedin.com/in/cristian-soare-83369622a/
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CristianSoare&theme=radical)
+E-portfolio - https://www.csoare.dev
+
+- ⚡ Fun fact: I am bilingual and can play the piano!
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CristianSoare&theme=dark)
