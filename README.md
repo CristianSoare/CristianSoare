@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian👋
 
-- 🔭 I’m currently working on two client projects, one for a religious institution, he other for a local business!
+- 🔭 I’m currently working on two client projects, one for a religious institution, the other for a local business!
 - 🌱 I’m currently learning python Beautiful Soup 4 Web Scraping Module
 - 👯 I’m looking to collaborate on more client projects! Contact me via linked in if interested!
 
